@@ -1,0 +1,23 @@
+
+
+Primitives/Value Type : 
+
+-Number
+-Boolean
+-String
+-Undefined
+-null
+-Symbol
+
+
+Reference  Type :
+
+-Object
+-Function
+-Array
+
+
+Note : 
+-Primitives are copied by value
+
+-Reference are copied by their reference
